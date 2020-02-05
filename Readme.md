@@ -1,9 +1,3 @@
-<style>
-table th:first-of-type {
-	width: 100px;
-}
-</style>
-
 
 | # | 题目 | Java | 难度 | 标签 |
 | :----:| :----:| :----: |:----: | :----:|
