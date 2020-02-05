@@ -1,3 +1,10 @@
+<style>
+table th:first-of-type {
+	width: 100px;
+}
+</style>
+
+
 | # | 题目 | Java | 难度 | 标签 |
 | :----:| :----:| :----: |:----: | :----:|
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum) | [Java](https://github.com/yyuguang/leetcode/blob/master/src/com/lnzz/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0/_1_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java) | 简单 | 数组 |
