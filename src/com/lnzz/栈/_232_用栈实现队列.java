@@ -1,4 +1,4 @@
-package com.lnzz.队列;
+package com.lnzz.栈;
 
 import java.util.Stack;
 
